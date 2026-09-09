@@ -4,6 +4,8 @@
 
 [Click here for English README](README.md)
 
+<img width="1394" height="746" alt="Ekran Resmi 2026-09-09 12 41 54" src="https://github.com/user-attachments/assets/5afad5ce-f042-40f0-a086-0b542e22e6a2" />
+
 ## ✨ Özellikler
 
 *   🗺️ **İnteraktif Dünya Haritası**: Ülkeleri özgürce keşfedin; harita üzerinde tıklayarak ülkelerin başkentlerini, bayraklarını ve detaylarını öğrenin.
@@ -72,3 +74,16 @@ Bilgisayarınızda [Node.js](https://nodejs.org/) veya [Bun](https://bun.sh/) y�
 ## 🤝 Katkıda Bulunma
 
 Projeye katkıda bulunmak, sorun bildirmek veya yeni bir özellik önermek isterseniz [issues sayfasına](https://github.com/kullanici-adiniz/dunya-kasifi/issues) göz atabilirsiniz.
+
+
+## Screenshots
+
+<img width="1394" height="746" alt="Ekran Resmi 2026-09-09 12 41 54" src="https://github.com/user-attachments/assets/47e242fe-d767-4bd0-99ec-a59f5e4a93db" />
+<img width="1317" height="745" alt="Ekran Resmi 2026-09-09 12 42 02" src="https://github.com/user-attachments/assets/3de0e978-187b-45f5-b91d-6421cb31d0f3" />
+<img width="947" height="751" alt="Ekran Resmi 2026-09-09 12 42 40" src="https://github.com/user-attachments/assets/952b3c76-3304-4092-9858-4f520044e3ec" />
+<img width="1100" height="763" alt="Ekran Resmi 2026-09-09 12 42 30" src="https://github.com/user-attachments/assets/04495c6f-8a1c-408f-a456-d5ff1e4c8521" />
+<img width="960" height="736" alt="Ekran Resmi 2026-09-09 12 42 55" src="https://github.com/user-attachments/assets/bcccea36-2430-4368-bfe8-0c5e0b83efaf" />
+<img width="974" height="753" alt="Ekran Resmi 2026-09-09 12 43 12" src="https://github.com/user-attachments/assets/158aae71-3e84-410f-a70c-fc42e453d506" />
+<img width="910" height="771" alt="Ekran Resmi 2026-09-09 12 43 19" src="https://github.com/user-attachments/assets/07881486-0ab0-4850-9150-d058cba744c7" />
+<img width="978" height="764" alt="Ekran Resmi 2026-09-09 12 42 16" src="https://github.com/user-attachments/assets/087cfe28-cde8-4618-bbce-f9a8beee2455" />
+<img width="896" height="752" alt="Ekran Resmi 2026-09-09 12 54 36" src="https://github.com/user-attachments/assets/f1ce3a04-5cd2-42f4-81f2-b533f5eb69e7" />

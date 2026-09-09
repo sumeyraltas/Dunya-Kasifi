@@ -4,7 +4,8 @@ A modern, interactive, and educational web application designed to help you lear
 
 [Türkçe README için tıklayın (For Turkish Readme)](README_TR.md)
 
-<img width="1394" height="746" alt="Ekran Resmi 2026-09-09 12 41 54" src="https://github.com/user-attachments/assets/70b9a480-40b3-486a-8c44-d0ec7a16495a" />
+<img width="1229" height="754" alt="Ekran Resmi 2026-09-09 13 14 57" src="https://github.com/user-attachments/assets/2922592b-9a4b-430a-b49c-19d6bd2881c0" />
+
 
 ## ✨ Features
 
